@@ -8,7 +8,7 @@ This project involves the analysis of sales data for a fictional company to deri
 
 - **Excel:** For data analysis and calculations.
 - **Power Query:** For data extraction, transformation, and loading (ETL processes).
-- **Power BI Service:** For creating interactive dashboards and visualizations.
+-
 
 ## Project Details
 
