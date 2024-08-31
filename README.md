@@ -31,8 +31,3 @@ This project involves the analysis of sales data for a fictional company to deri
 
 ## Getting Started
 
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/sales-data-analysis.git
